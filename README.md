@@ -3,7 +3,7 @@ c8-experiments
 
 This repo shows how you can use [component](https://github.com/component/component) (1.0.0-rc5)
 
-I showed these examples at my talk @ [Berlin.JS](http://berlinjs.org/)
+I showed these examples at my talk @ [Berlin.JS (2014-06-19)](http://berlinjs.org/)
 
 Each example is on its own branch.
 Starting with an empty project and do a progress step by step.
