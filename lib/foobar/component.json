@@ -3,7 +3,7 @@
     "index.js"
   ],
   "main": "index.js",
-  "templates": ["templates/list.html"],
+  "jade": ["templates/list.jade"],
   "dependencies": {
       "component/dom": "^1.0.5",
       "component/reactive": "^1.1.1"
