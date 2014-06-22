@@ -1,0 +1,14 @@
+{
+  "scripts": [
+    "client.js",
+    "helper.js"
+  ],
+  "main": "client.js",
+  "styles": [
+    "styles.css"
+  ],
+  "dependencies": {
+    "component/dialog": "~0.2.1",
+    "fortawesome/font-awesome": "^4.1.0"
+  }
+}
