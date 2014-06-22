@@ -22,7 +22,10 @@ Starting with an empty project and do a progress step by step.
 - e11 - use express as middleware for generating the build
 
 For `e1` you need to run `component install`
-For `e1` until e9 just a `node_modules/.bin/component-build` or if you installed it globally
+
+For `e1` until `e9` just a `node_modules/.bin/component-build` or if you installed it globally
 `component-build`
-`e10` has it's own build script using component API, just run it with node: `node builder.js`
+
+`e10` has it's own build script using component API, run it with node: `node builder.js`
+
 `e11` uses express to generate the build, start express with `node app.js`
