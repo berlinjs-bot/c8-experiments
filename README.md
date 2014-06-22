@@ -43,5 +43,5 @@ From `e1` until `e9` just a `component-build`
 3. get all branches: `./pull-branches.sh`
 4. start with first example: `git checkout e0`
 5. if you want to go to the next, run `git checkout e1` then `npm install`
-6. next one: `git checkout e3` then `component-build`
+6. next one: `git checkout e2` then `component-build`
 7. etcetera
