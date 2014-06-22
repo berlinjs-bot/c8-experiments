@@ -1,8 +1,12 @@
+var dialog = require("dialog");
+
 var client = {};
 var title = 'Hello component!';
 
 client.show = function() {
-  alert(title);
+  dialog(title, "lorem ipsum")
+      .closable()
+      .show();
 }
 
 client.sum = function(a, b) {
