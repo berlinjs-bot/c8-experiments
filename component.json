@@ -3,5 +3,8 @@
   "scripts": [
     "client.js"
   ],
-  "main": "client.js"
+  "main": "client.js",
+  "styles": [
+    "styles.css"
+  ]
 }
