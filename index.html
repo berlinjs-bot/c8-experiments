@@ -1,11 +1,17 @@
 <!DOCTYPE html>
 <html>
-
   <head>
     <meta charset="utf-8">
+    <script src="build/build.js"></script>
+    <script>
+      var client = require("my-component");
+    </script>
   </head>
 
   <body>
+    <div class="container">
+      <button onclick="client.show()">show</button>
+    </div>
   </body>
 
 </html>
