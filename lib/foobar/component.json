@@ -1,0 +1,10 @@
+{
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "templates": ["templates/list.html"],
+  "dependencies": {
+      "component/dom": "^1.0.5"
+  }
+}
