@@ -1,7 +1,8 @@
 {
   "name": "my-component",
   "scripts": [
-    "client.js"
+    "client.js",
+    "helper.js"
   ],
   "main": "client.js",
   "styles": [
