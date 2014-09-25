@@ -25,7 +25,7 @@ Starting with an empty project and do a progress step by step.
 - [e4](https://github.com/timaschew/c8-experiments/tree/e4) - use another JS file
 - [e5](https://github.com/timaschew/c8-experiments/tree/e5) - use 3rd party component
 - [e6](https://github.com/timaschew/c8-experiments/tree/e6) - add Font Awesome
-- [e7](https://github.com/timaschew/c8-experiments/tree/e7) - better directory structure
+- [e7](https://github.com/timaschew/c8-experiments/tree/e7) - better directory structure & local component
 - [e8](https://github.com/timaschew/c8-experiments/tree/e8) - add reactive component
 - [e9](https://github.com/timaschew/c8-experiments/tree/e9) - reactive with a list
 - [e10](https://github.com/timaschew/c8-experiments/tree/e10) - use jade for templating
