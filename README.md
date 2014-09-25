@@ -10,15 +10,13 @@ Starting with an empty project and do a progress step by step.
 
 ### clone and do step by step
 1. clone this repo: `https://github.com/timaschew/c8-experiments.git`
-2. change the directory `cd  c8-experiments`
-3. start with first example: `git checkout e0`
-4. if you want to go to the next, run `git checkout e1` then `npm install`
+2. change the directory `cd c8-experiments`
+3. start with first example: `git checkout e1` then `npm install`
 5. next one: `git checkout e2` then `component-build`
 6. etcetera
 
 ### examples
 
-- [e0](https://github.com/timaschew/c8-experiments/tree/e0) - almost empty project
 - [e1](https://github.com/timaschew/c8-experiments/tree/e1) - install component
 - [e2](https://github.com/timaschew/c8-experiments/tree/e2) - use a JS script
 - [e3](https://github.com/timaschew/c8-experiments/tree/e3) - use CSS
@@ -26,14 +24,15 @@ Starting with an empty project and do a progress step by step.
 - [e5](https://github.com/timaschew/c8-experiments/tree/e5) - use 3rd party component
 - [e6](https://github.com/timaschew/c8-experiments/tree/e6) - add Font Awesome
 - [e7](https://github.com/timaschew/c8-experiments/tree/e7) - better directory structure & local component
+- [e7a](https://github.com/timaschew/c8-experiments/tree/e7a) - test environment (`component buiild --dev`)
 - [e8](https://github.com/timaschew/c8-experiments/tree/e8) - add reactive component
 - [e9](https://github.com/timaschew/c8-experiments/tree/e9) - reactive with a list
-- [e10](https://github.com/timaschew/c8-experiments/tree/e10) - use jade for templating
-- [e11](https://github.com/timaschew/c8-experiments/tree/e11) - use express as middleware for generating the build
+- [e10](https://github.com/timaschew/c8-experiments/tree/e10) - use jade for templating (*)
+- [e11](https://github.com/timaschew/c8-experiments/tree/e11) - use express as middleware for generating the build (*)
 
 ### install steps for each example
 
-For `e0` you need to run `npm install`
+Youn only need to run `npm install` once (except for `e11` and `e11`)
 
 Because component is installed locally, you cannot access it with `component-build`, but
 you can create a temporary alias: `alias component-build='node_modules/.bin/component-build'` otherwise
