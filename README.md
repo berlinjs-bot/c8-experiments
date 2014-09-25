@@ -11,11 +11,10 @@ Starting with an empty project and do a progress step by step.
 ### clone and do step by step
 1. clone this repo: `https://github.com/timaschew/c8-experiments.git`
 2. change the directory `cd  c8-experiments`
-3. get all branches: `./pull-branches.sh`
-4. start with first example: `git checkout e0`
-5. if you want to go to the next, run `git checkout e1` then `npm install`
-6. next one: `git checkout e2` then `component-build`
-7. etcetera
+3. start with first example: `git checkout e0`
+4. if you want to go to the next, run `git checkout e1` then `npm install`
+5. next one: `git checkout e2` then `component-build`
+6. etcetera
 
 ### examples
 
