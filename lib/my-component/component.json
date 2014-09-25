@@ -13,5 +13,24 @@
   "dependencies": {
     "component/dialog": "~0.2.1",
     "fortawesome/font-awesome": "^4.1.0"
+  },
+  "development": {
+    "dependencies": {
+      "component/assert": "*",
+      "visionmedia/mocha": "*",
+      "visionmedia/debug": "*",
+      "chaijs/chai": "*"
+    },
+    "locals": [
+      "dev-local"
+    ], 
+    "scripts": [
+      "test/data.js",
+      "test/browser.js"
+    ],
+    "styles": [
+      "test/test.css"
+    ]
   }
+  
 }

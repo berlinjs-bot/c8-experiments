@@ -1,0 +1,7 @@
+{
+  "scripts": [
+    "index.js",
+    "testutils.js"
+  ],
+  "main": "index.js"
+}
