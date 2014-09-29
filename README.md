@@ -32,7 +32,7 @@ Starting with an empty project and do a progress step by step.
 
 ### install steps for each example
 
-Youn only need to run `npm install` once (except for `e11` and `e11`)
+Youn only need to run `npm install` once (except for `e10` and `e11`)
 
 Because component is installed locally, you cannot access it with `component-build`, but
 you can create a temporary alias: `alias component-build='node_modules/.bin/component-build'` otherwise
