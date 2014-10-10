@@ -1,7 +1,7 @@
 c8-experiments
 ==============
 
-This repo shows how you can use [component](https://github.com/component/component) (1.0.0-rc5)
+This repo shows how you can use [component](https://github.com/component/component) (1.x)
 
 I showed these examples at my talk @ [Berlin.JS (2014-06-19)](http://berlinjs.org/)
 
