@@ -17,6 +17,7 @@
             mocha.setup('bdd');
             require("./lib/my-component/test/browser.js")
             mocha.run();
+            mocha.suite.suites = []; // reset test suites if you want to run next tests independently
         </script>
     </body>
 </html>
