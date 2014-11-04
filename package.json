@@ -7,5 +7,8 @@
     "component-resolver": "~1.1.6",
     "component-remotes": "^1.1.6"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "scripts":{
+    "postinstall": "mkdir ./build && node builder.js"
+  }
 }
