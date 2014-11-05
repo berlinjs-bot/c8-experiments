@@ -36,7 +36,7 @@ Youn only need to run `npm install` once (except for `e10` and `e11`)
 
 Because component is installed locally, you cannot access it with `component-build`, but
 you can create a temporary alias: `alias component-build='node_modules/.bin/component-build'` otherwise
-install it with global option: `npm install component@1.0.0-rc5`
+install it with global option: `npm install component@1.*`
 
 From `e1` until `e9` just a `component-build`
 
