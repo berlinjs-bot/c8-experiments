@@ -9,6 +9,6 @@
   },
   "devDependencies": {},
   "scripts":{
-    "postinstall": "mkdir ./build && node builder.js"
+    "postinstall": "mkdir -p ./build && node builder.js"
   }
 }
