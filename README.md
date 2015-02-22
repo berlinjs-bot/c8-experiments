@@ -3,7 +3,7 @@ c8-experiments
 
 This repo shows how you can use [component](https://github.com/componentjs/component) (1.x)
 
-I showed these examples at my talk @ [Berlin.JS (2014-06-19)](https://speakerdeck.com/timaschew/component-and-other-front-end-package-manager)
+I showed these examples at my talk @ Berlin.JS (2014-06-19): \[[slides](https://speakerdeck.com/timaschew/component-and-other-front-end-package-manager)\] \[[video](https://vimeo.com/111150245)\]
 
 Each example is on its own branch.
 Starting with an empty project and do a progress step by step.
